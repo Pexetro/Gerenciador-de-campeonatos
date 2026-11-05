@@ -1,6 +1,6 @@
 # 🏆 Podium Championship Manager
 O Podium é uma plataforma completa para gerenciamento de campeonatos e times de diferentes modalidades esportivas. Com uma interface simples, interativa e focada na experiência do usuário.
-![Banner do Podium](assets/Podium_Banner)
+![Banner do Podium](assets/Podium_Banner.png)
 
 ## 🎯 Sobre o Projeto
 O Podium nasceu com o objetivo de se tornar a maior gerenciadora de campeonatos amadores e semiprofissionais. Sabemos que organizar torneios de futebol, vôlei, basquete ou e-sports é uma tarefa complexa. Por isso, o Podium centraliza a criação de campeonatos, gestão de elencos e lançamento de pontuações (com suporte a diferentes regras, como sets e tempos) em um único lugar.
