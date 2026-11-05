@@ -23,11 +23,15 @@ API RESTful: Endpoints completos para integração com o aplicativo mobile.
 
 ### 🚧 Em Desenvolvimento (Frontend/Android)
 
-[] Criação das telas de Login e Cadastro no aplicativo Android.
-[] Integração do Android com a API via Retrofit.
-[] Tela de visualização de tabelas de classificação e chaveamento de jogos.
-[] Dashboard para o administrador gerenciar o campeonato pelo celular.
-[] Implementação de notificações para jogos e resultados.
+[ ] Criação das telas de Login e Cadastro no aplicativo Android.
+
+[ ] Integração do Android com a API via Retrofit.
+
+[ ] Tela de visualização de tabelas de classificação e chaveamento de jogos.
+
+[ ] Dashboard para o administrador gerenciar o campeonato pelo celular.
+
+[ ] Implementação de notificações para jogos e resultados.
 
 ## 🛠️ Tecnologias Utilizadas
 
