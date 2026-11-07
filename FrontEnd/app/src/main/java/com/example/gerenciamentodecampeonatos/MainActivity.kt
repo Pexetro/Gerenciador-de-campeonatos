@@ -1,5 +1,6 @@
 package com.example.gerenciamentodecampeonatos
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
@@ -32,6 +33,8 @@ class MainActivity : AppCompatActivity() {
         btLogin = findViewById(R.id.btLogin)
 
         btRegistrar.setOnClickListener {
+            val intent = Intent(this, SignInActivity::class.java)
+            startActivity(intent)
 
         }
 
